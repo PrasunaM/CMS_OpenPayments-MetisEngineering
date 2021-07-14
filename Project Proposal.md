@@ -3,7 +3,7 @@
 ### Question/need:
 * What is the framing question of your analysis, or the purpose of the model/system you plan to build?
 
-Centers for Medicare and Medicaid Services(CMS) offers a [platform] (https://www.cms.gov/OpenPayments/Data) that allows public to view data about trasactions between pharmaceutical and drug device companies to hospitals and healthcare providers to provide transparency about financial relationships. Data for the year 2020 was realeased on June 30th 2021. Comparing trends in payments across various states before and after the pandemic might reveal interesting facts about the pharmaceutical industry.    
+Centers for Medicare and Medicaid Services(CMS) offers a [platform](https://www.cms.gov/OpenPayments/Data) that allows public to view data about trasactions between pharmaceutical and drug device companies to hospitals and healthcare providers to provide transparency about financial relationships. Data for the year 2020 was realeased on June 30th 2021. Comparing trends in payments across various states before and after the pandemic might reveal interesting facts about the pharmaceutical industry.    
 
 
 * Who benefits from exploring this question or building this model/system?
