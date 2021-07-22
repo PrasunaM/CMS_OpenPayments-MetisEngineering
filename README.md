@@ -18,7 +18,7 @@ Data has about 100,000 entries each from 2020 and 2019. It has 79 columns for ea
 
 Machine learning algorithms were not utilized. A data pipeline was built that can display user information about open payments. Please review the below workflow diagram- 
 
-<img src="Screen Shot 2021-07-22 at 4.05.56 PM.png" alt="Project_architecture" width="600" height = "400"/> 
+<img src="Screen Shot 2021-07-22 at 4.05.56 PM.png" alt="Project_architecture" width="800" height = "600"/> 
 
 ## Tools
 * SQLite
