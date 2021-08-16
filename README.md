@@ -20,6 +20,9 @@ Machine learning algorithms were not utilized. A data pipeline was built that ca
 
 <img src="Screen Shot 2021-07-22 at 4.05.56 PM.png" alt="Project_architecture" width="800" height = "600"/> 
 
+* [Final code](https://github.com/PrasunaM/CMS_OpenPayments-MetisEngineering/blob/9d37fcee5a2b27d4a5794270052996984d7d292b/Final_submission/main.py)
+* [Presentation Slides](https://github.com/PrasunaM/CMS_OpenPayments-MetisEngineering/blob/9d37fcee5a2b27d4a5794270052996984d7d292b/Final_submission/Metis%20Engineering%20Module%20Slides.pdf)
+
 ## Tools
 * SQLite
 * Plotly
